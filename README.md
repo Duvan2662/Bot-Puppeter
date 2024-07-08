@@ -1,4 +1,4 @@
-## Bot de automatiacion en Puppeterr 
+## Bot de automatización en Puppeterr 
 Este bot mediante las credenciales que se le proporcionan en el archivo data.json ingresa a una url donde se puede postear 
 y crea un nuevo post al final de crear el post toma una captura de pantalla para verificar que verdaderamente si se halla posteado 
 
